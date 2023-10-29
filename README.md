@@ -19,7 +19,7 @@ Build and upload the code.
 
 Now you can see the temperature reading from the board on the Serial monitor.
 
-Took references from
+### References:
 1. https://community.st.com/t5/stm32-mcus-motor-control/hi-i-am-using-b-g431b-esc1-discovery-kit-with-stm32g431cb-mcu-i/td-p/100221
 2. https://community.simplefoc.com/t/temperature-monitoring-on-b-g431b-esc1/2955
 3. https://community.simplefoc.com/t/b-g431b-esc1-adc-reading-of-temp-pot-vbus-while-foc-current/1529
